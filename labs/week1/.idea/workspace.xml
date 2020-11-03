@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4cd7bea-2acb-42cf-bb37-313d3ed3626e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\edwar\sdk\go1.15.2" />
+  <component name="ProjectId" id="1iSROa7KRrjMtLAsc7Eql7w0sOp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week2/intro-to-go-lab-2-master/messages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build concurrentHello.go">
+    <configuration name="go build concurrentHello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="intro-to-go-lab-1-master" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrentHello.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build intro-to-go-lab-1-master hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="intro-to-go-lab-1-master" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/|$PROJECT_DIR$/hello.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build concurrentHello.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cd7bea-2acb-42cf-bb37-313d3ed3626e" name="Default Changelist" comment="" />
+      <created>1601898986401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601898986401</updated>
+      <workItem from="1601899024012" duration="1923000" />
+      <workItem from="1601901127392" duration="104000" />
+      <workItem from="1601908341770" duration="383000" />
+      <workItem from="1602147562016" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#GOPATH" timestamp="1601900234095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#GOPATH/0.0.1536.824@0.0.1536.824" timestamp="1601900234095" />
+    <state x="361" y="70" key="#GOROOT" timestamp="1601899236775">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1601899236775" />
+    <state x="361" y="70" key="#Go_Modules_(vgo)" timestamp="1601899371017">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Go_Modules_(vgo)/0.0.1536.824@0.0.1536.824" timestamp="1601899371017" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601900337504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601900337504" />
+    <state x="496" y="56" key="#go_build_intro-to-go-lab-1-master" timestamp="1601900276003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="56" key="#go_build_intro-to-go-lab-1-master/0.0.1536.824@0.0.1536.824" timestamp="1601900276003" />
+    <state x="496" y="56" key="#go_build_intro-to-go-lab-1-master_hello.go" timestamp="1601900292112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="56" key="#go_build_intro-to-go-lab-1-master_hello.go/0.0.1536.824@0.0.1536.824" timestamp="1601900292112" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1602147632967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602147632967" />
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1601908727132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601908727132" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1601908727132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601908727132" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1601908727132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601908727132" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1601908727132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601908727132" />
+    <state x="277" y="54" key="SettingsEditor" timestamp="1601900225478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601900225478" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601900243747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601900243747" />
+  </component>
+</project>
